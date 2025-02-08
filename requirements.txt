@@ -6,3 +6,5 @@ gdown
 scikit-learn
 opencv-python
 tensorflow
+tensorboard
+mlflow

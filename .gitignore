@@ -162,3 +162,7 @@ cython_debug/
 notebook/unzipped_files/*
 *.zip
 notebook/downloaded_file.zip
+notebook/checkpoints/*
+notebook/logs/*
+notebook/mlruns/*
+notebook/saved_models/*
