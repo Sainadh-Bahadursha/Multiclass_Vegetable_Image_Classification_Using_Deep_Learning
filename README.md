@@ -1,6 +1,7 @@
 # Multiclass_Vegetable_Image_Classification_Using_Deep_Learning
-Project Jupyter notebook[https://github.com/Sainadh-Bahadursha/Multiclass_Vegetable_Image_Classification_Using_Deep_Learning/blob/main/notebook/Vegetable_Image_Classification.ipynb]
-Project PDF [https://github.com/Sainadh-Bahadursha/Multiclass_Vegetable_Image_Classification_Using_Deep_Learning/blob/main/notebook/Vegetable_Image_Classification.ipynb] 
+- [Project Jupyter notebook](https://github.com/Sainadh-Bahadursha/Multiclass_Vegetable_Image_Classification_Using_Deep_Learning/blob/main/notebook/Vegetable_Image_Classification.ipynb)
+
+- [Project PDF](https://github.com/Sainadh-Bahadursha/Multiclass_Vegetable_Image_Classification_Using_Deep_Learning/blob/main/notebook/Vegetable_Image_Classification.pdf)
 ## **Overview**  
 This project aims to classify vegetable images into different categories using deep learning models. The objective is to develop a model that accurately identifies the type of vegetable present in an image by utilizing convolutional neural networks (CNNs) and pretrained architectures. Several models, including Simple CNN, VGG16, ResNet50, InceptionV3, and MobileNetV2, are trained and compared to assess their performance.  
 
